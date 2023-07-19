@@ -47,26 +47,26 @@ Developer specialized in web and mobile, originally from Vichy (France 03) and c
 
 After almost 20 years of experience in development, including 2 years in a web agency, 9 years as a freelancer, 3 years as a trainer, 3 years in multinational ESN and various missions, I am as much at ease in front-end as in back-end and mobile, with a clear preference for React.js / React Native and Node.js, and a strong interest in Flutter.
 
-Technical & software skills
-------------------------------------------
-Integration :
-HTML 5 | CSS 3 | SASS | LESS
+Technical & software skills\
+------------------------------------------\
+Integration :\
+HTML 5 | CSS 3 | SASS | LESS\
 Accessibility | SEO-friendly
 
-Front-end development :
-Javascript | Typescript
-React.js / Next.js | Vue.js / Nuxt.js
+Front-end development :\
+Javascript | Typescript\
+React.js / Next.js | Vue.js / Nuxt.js\
 
-Back-end development :
-Node.js / Nest.js | SQL | MongoDB | GraphQL
+Back-end development :\
+Node.js / Nest.js | SQL | MongoDB | GraphQL\
 OOP | Design patterns | RESTful API | SaaS
 
-Mobile development :
+Mobile development :\
 React Native | Flutter
 
-Project management :
-Agile SCRUM methodology
-Career management
-Merise | Gantt chart | UML
-Testing: unit, integration, interface, e2e, ...
+Project management :\
+Agile SCRUM methodology\
+Career management\
+Merise | Gantt chart | UML\
+Testing: unit, integration, interface, e2e, ...\
 Technical & technological watch
