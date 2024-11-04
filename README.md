@@ -46,7 +46,7 @@ After almost 20 years of experience in development, including 2 years in a web a
 
 For several years now, I've been working as a lead developer, carrying out several tasks, such as guaranteeing the technical quality of projects, ensuring observability, advising on the definition of roadmaps, providing technical support to customers within an Agile framework, ensuring a balance between technical quality and product vision, designing and implementing complex functionalities, reusing and industrializing within projects, and supporting and enhancing the skills of the technical team.
 
-### Technical & software skills\
+### Technical & software skills
 ------------------------------------------
 
 #### Integration
