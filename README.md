@@ -46,35 +46,38 @@ After almost 20 years of experience in development, including 2 years in a web a
 
 For several years now, I've been working as a lead developer, carrying out several tasks, such as guaranteeing the technical quality of projects, ensuring observability, advising on the definition of roadmaps, providing technical support to customers within an Agile framework, ensuring a balance between technical quality and product vision, designing and implementing complex functionalities, reusing and industrializing within projects, and supporting and enhancing the skills of the technical team.
 
-Technical & software skills\
-------------------------------------------\
-Integration :\
+### Technical & software skills\
+------------------------------------------
+
+#### Integration
+
 HTML 5 | CSS 3 | SASS | LESS\
 Accessibility | SEO-friendly
 
-Front-end development :\
+#### Front-end development
+
 Javascript | Typescript\
 React.js / Next.js | Vue.js / Nuxt.js | Svelte / SvelteKit | Astro
 
-Back-end development :\
+#### Back-end development
+
 Node.js / Nest.js | SQL | MongoDB | GraphQL | Serverless AWS | Terraform\
 OOP | Design patterns | RESTful API | SaaS
 
-Mobile development :\
+#### Mobile development
+
 React Native | Flutter
 
-Build :\
+#### Build
+
 Vite | Docker | pnpm workspaces
 
-Observability / Monitoring / APM :\
+#### Observability / Monitoring / APM
+
 OpenTelemetry | New Relic | Dynatrace
 
-Project management :\
-Agile SCRUM methodology\
-Career management\
-Merise | Gantt chart | UML\
-Testing: unit, integration, interface, e2e, ...\
-Technical & technological watch\
+#### Project management
+
 Agile SCRUM methodology\
 Career management\
 Merise | Gantt chart | UML\
