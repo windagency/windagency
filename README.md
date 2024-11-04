@@ -16,55 +16,65 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/windagency" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/windagency?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/damientivelet/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/windagency" target="_blank">
+  <a href="https://medium.com/@windagency.com" target="_blank">
     <img
-      src="https://api.daily.dev/devcards/f3aa716aeec34f7eb586237ee579ddd8.png?r=huh"
-      width="256"
-      align="right"
-      alt="Damien TIVELET's Dev Card"
+      src="https://img.shields.io/static/v1?logo=medium&style=flat-square&color=0072b1&label=Medium&message=%E2%98%86"
+      alt="Medium"
+    />
+  </a>
+  <a href="https://twitter.com/windagency" target="_blank">
+    <img
+      src="https://img.shields.io/twitter/follow/windagency?logo=x&style=flat-square&color=0072b1&label=(ex Twitter)&message=%E2%98%86"
+      alt="Twitter"
     />
   </a>
 </div>
 
-## I am Damien TIVELET
+## I'm Damien TIVELET
 
-- Lead Developer & Middle Manager at [Kaliop France](https://www.kaliop.com)
+### Lead Developer & Middle Manager at [Kaliop France](https://www.kaliop.com)
 
-Developer specialized in web and mobile, originally from Vichy (France 03) and currently based in Edinburgh (Scotland), I like innovative challenges in terms of research and technological advances. I previously lived from 2010 to 2023 in Montpellier (France 34).
+I'm a developer specialising in web and mobile development. I'm originally from Vichy (France 03) and currently based in Edinburgh (Scotland). I previously lived in Montpellier (France 34) from 2010 to 2023. I like innovative challenges in terms of research and technological advances.
 
-After almost 20 years of experience in development, including 2 years in a web agency, 9 years as a freelancer, 3 years as a trainer, 3 years in multinational ESN and various missions, I am as much at ease in front-end as in back-end and mobile, with a clear preference for React.js / React Native and Node.js, and a strong interest in Flutter.
+After almost 20 years of experience in development, including 2 years in a web agency, 9 years as a freelancer, 3 years as a trainer, 3 years in multinational ESN and various missions, I am as much at ease in front-end as in back-end and mobile, with a clear preference for React.js / React Native and Node.js and a strong interest in Flutter.
 
-Technical & software skills\
-------------------------------------------\
-Integration :\
-HTML 5 | CSS 3 | SASS | LESS\
+For several years now, I've been working as a lead developer, carrying out several tasks, such as guaranteeing the technical quality of projects, ensuring observability, advising on the definition of roadmaps, providing technical support to customers within an Agile framework, ensuring a balance between technical quality and product vision, designing and implementing complex functionalities, reusing and industrializing within projects, and supporting and enhancing the skills of the technical team.
+
+Technical & software skills
+------------------------------------------
+Integration :
+HTML 5 | CSS 3 | SASS | LESS
 Accessibility | SEO-friendly
 
-Front-end development :\
-Javascript | Typescript\
-React.js / Next.js | Vue.js / Nuxt.js\
+Front-end development :
+Javascript | Typescript
+React.js / Next.js | Vue.js / Nuxt.js | Svelte / SvelteKit | Astro
 
-Back-end development :\
-Node.js / Nest.js | SQL | MongoDB | GraphQL\
+Back-end development :
+Node.js / Nest.js | SQL | MongoDB | GraphQL | Serverless AWS | Terraform
 OOP | Design patterns | RESTful API | SaaS
 
-Mobile development :\
+Mobile development :
 React Native | Flutter
 
-Project management :\
+Build :
+Vite | Docker | pnpm workspaces
+
+Observability / Monitoring / APM :
+OpenTelemetry | New Relic | Dynatrace
+
+Project management :
+Agile SCRUM methodology
+Career management
+Merise | Gantt chart | UML
+Testing: unit, integration, interface, e2e, ...
+Technical & technological watch
 Agile SCRUM methodology\
 Career management\
 Merise | Gantt chart | UML\
