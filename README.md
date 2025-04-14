@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## I'm Damien TIVELET
 
-### Lead Developer & Middle Manager at [Kaliop France](https://www.kaliop.com)
+### Lead Software Engineer at [Qodea](https://www.qodea.com), a Google Cloud Technology Partner
 
 I'm a developer specialising in web and mobile development. I'm originally from Vichy (France 03) and currently based in Edinburgh (Scotland). I previously lived in Montpellier (France 34) from 2010 to 2023. I like innovative challenges in terms of research and technological advances.
 
@@ -61,7 +61,7 @@ React.js / Next.js | Vue.js / Nuxt.js | Svelte / SvelteKit | Astro
 
 #### Back-end development
 
-Node.js / Nest.js | SQL | MongoDB | GraphQL | Serverless AWS | Terraform\
+Node.js / Nest.js | SQL | MongoDB | GraphQL | Serverless (AWS / GCP) | Terraform\
 OOP | Design patterns | RESTful API | SaaS
 
 #### Mobile development
