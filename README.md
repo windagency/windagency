@@ -31,19 +31,12 @@ My real strength is **designing systems, processes, and teams that scale.**
 
 ## 🧠 What I Bring as a Lead Engineer
 
-<table style="border-collapse:collapse; border:none; width:100%;">
-<tr valign="top">
-<td style="border:none; width: 50%;">
-
 I don’t just build features. I design sustainable delivery systems.  
 I go beyond implementation. I operate at the intersection of:
 
 - Technical Excellence
 - Product Strategy
 - Delivery Optimisation
-
-</td>
-<td style="border:none; width: 50%;">
 
 I:
 
@@ -55,10 +48,6 @@ I:
 - Industrialise reusable components and foundations
 - Support and elevate engineering teams
 - Design and implement complex, high-impact features
-
-</td>
-</tr>
-</table>
 
 I operate where **technology meets strategic impact**.
 
