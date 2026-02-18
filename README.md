@@ -70,11 +70,6 @@ Most AI tools help you write code.
 **VALORA helps you ship software**.
 
 ### Technical & software skills
-------------------------------------------
-
-<table width="100%">
-<tr valign="top">
-<td width="50%">
 
 #### Front-end:
 
@@ -93,9 +88,6 @@ Most AI tools help you write code.
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)  
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 
-</td>
-<td width="50%">
-
 #### Back-end:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -112,11 +104,6 @@ Most AI tools help you write code.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
-
 #### Package Management:
 
 ![Volta](https://img.shields.io/badge/Volta-343A40?logo=volta&logoColor=white)
@@ -125,18 +112,10 @@ Most AI tools help you write code.
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-Workspace-F69220?logo=pnpm&logoColor=white)
 
-</td>
-<td width="50%">
-
 Bundling:
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
-
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
 
 #### Platform Knowledge & DevOps Skills
 
@@ -149,18 +128,11 @@ Bundling:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab_Runners-FCA121?logo=gitlab&logoColor=white)
 
-</td>
-<td width="50%">
-
 #### Observability / Monitoring / APM :
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?logo=newrelic&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
