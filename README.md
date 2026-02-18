@@ -1,5 +1,7 @@
 # Damien TIVELET
 
+![Damien TIVELET](./Dark_premium_GitHub_README_banner_artwork_in_169_-1771440890282.png)
+
 **Lead Software Engineer @ [Qodea](https://www.qodea.com), a Google Cloud Technology Partner | AI-Driven Dev Advocate | Creator of VALORA**
 
 [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/damientivelet/)
