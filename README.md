@@ -65,15 +65,9 @@ My focus includes:
 > I believe the future of software development is not about replacing developers.
 > It’s about **amplifying their capabilities through intelligent collaboration**.
 
-### ⚙️ VALORA — AI Orchestration for Real Software Delivery
+## Technical & software skills
 
-I created **[VALORA](https://github.com/windagency/valora.ai)**, an open-source command-line AI orchestration tool designed to transform how teams deliver software.  
-Most AI tools help you write code.  
-**VALORA helps you ship software**.
-
-### Technical & software skills
-
-#### Front-end:
+### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG-Accessibility-blue)
@@ -90,7 +84,7 @@ Most AI tools help you write code.
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)  
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 
-#### Back-end:
+### Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
@@ -101,12 +95,12 @@ Most AI tools help you write code.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white)
 
-#### Mobile cross-platform:
+### Mobile cross-platform
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-#### Package Management:
+### Package Management
 
 ![Volta](https://img.shields.io/badge/Volta-343A40?logo=volta&logoColor=white)
 ![nvm](https://img.shields.io/badge/nvm-339933?logo=nodedotjs&logoColor=white)
@@ -114,12 +108,12 @@ Most AI tools help you write code.
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-Workspace-F69220?logo=pnpm&logoColor=white)
 
-Bundling:
+### Bundling
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 
-#### Platform Knowledge & DevOps Skills
+### Platform Knowledge & DevOps Skills
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FaaS-FF9900?logo=serverless&logoColor=white)
@@ -130,42 +124,46 @@ Bundling:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab_Runners-FCA121?logo=gitlab&logoColor=white)
 
-#### Observability / Monitoring / APM :
+### Observability / Monitoring / APM
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?logo=newrelic&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white)
 
----
-
-#### Key concepts:
+### Key concepts
 
 OOP | Design patterns | Functional Programming | Asynchronous Programming  
 RESTful API | SaaS | Headless
 
-#### Design & Development Principles :
+### Design & Development Principles
 
 Core Principles: DRY | KISS  
 Architectural Patterns: CQRS | Clean archi  
 Testing and Development: TDD (Test-Driven Development) | BDD (Behaviour-Driven Development)  
 Design Patterns and Domain Modelling: DDD (Domain-Driven Design) | ACID
 
-#### System & Architectural Patterns:
+### System & Architectural Patterns
 
 Fundamental Patterns: Client-Server | Layered  
 Advanced Architectural Patterns: Hexagonal | Event-Driven | Microservices | BFF | Island Architecture  
 Web-Specific Patterns: ESI
 
----
-
-#### Quality:
+### Quality
 
 Testing: unit, integration, interface, e2e, ...
 
-#### Project management
+### Project management
 
 Agile SCRUM methodology\
 Career management\
 Merise | Gantt chart | UML\
 Testing: unit, integration, interface, e2e, ...\
 Technical & technological watch
+
+---
+
+## ⚙️ VALORA — AI Orchestration for Real Software Delivery
+
+I created **[VALORA](https://github.com/windagency/valora.ai)**, an open-source command-line AI orchestration tool designed to transform how teams deliver software.  
+Most AI tools help you write code.  
+**VALORA helps you ship software**.
